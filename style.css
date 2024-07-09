@@ -1,0 +1,62 @@
+h1{
+    text-align:center;
+    color: red;
+    font-family: Arial;
+    font-size: 40px;
+    font-weight: 400px;
+
+}
+
+
+
+h1 span{
+    color: skyblue;
+    font-size: 45px;
+}
+
+p{
+    color:black;
+    font-family:'Times New Roman';
+    text-align: justify;
+    font-size: 20px;
+    line-height: 30px ;
+
+
+}
+
+
+p span{
+    font-size: 30px;
+    color: blue;
+}
+
+#para1{
+    background-color: black;
+    color: whitesmoke;
+
+}
+
+/* #para2{
+    background-color: skyblue;
+    color: cadetblue;
+}*/
+
+a{
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    display: block;
+    line-height: 100px;
+    width: 150px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 50px 50px 0px 50px;
+    transition: 2s;
+    
+}
+
+a:hover{
+    background-color: brown;
+    
+
+}
